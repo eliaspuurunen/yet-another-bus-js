@@ -1,0 +1,8 @@
+{
+  "name": "@agfinn/yet-another-bus",
+  "version": "1.0.0",
+  "description": "A simple Event Bus for JS apps.",
+  "main": "index.js",
+  "author": "Elias Puurunen / Tractus Events",
+  "license": "MIT"
+}
