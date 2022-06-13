@@ -1,3 +1,4 @@
+// Inspired by:
 // https://stackoverflow.com/questions/63471824/vue-js-3-event-bus
 const EventBusLogLevels = {
     DEBUG_ONLY_EVENTS: 0x10,

@@ -4,5 +4,10 @@
   "description": "A simple Event Bus for JS apps.",
   "main": "index.js",
   "author": "Elias Puurunen / Tractus Events",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/eliaspuurunen/yet-another-bus-js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/eliaspuurunen/yet-another-bus-js"
+  }
 }
